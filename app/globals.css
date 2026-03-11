@@ -37,7 +37,15 @@
   }
 
   * {
-    @apply border-border outline-ring/50;
+    border-color: var(--color-clay);
+  }
+}
+
+/* No-JS fallback: show content if JS hasn't loaded */
+@media (scripting: none) {
+  .fade-up {
+    opacity: 1 !important;
+    transform: none !important;
   }
 }
 

@@ -62,10 +62,10 @@ export default function Examples() {
                   <p className="text-slate">{ex.before}</p>
                 </div>
                 <div>
-                  <span className="text-fog text-xs uppercase tracking-wider block mb-1">
+                  <span className="text-rust text-xs uppercase tracking-wider block mb-1">
                     After
                   </span>
-                  <p className="text-slate">{ex.after}</p>
+                  <p className="text-ink font-medium">{ex.after}</p>
                 </div>
               </div>
             </div>
