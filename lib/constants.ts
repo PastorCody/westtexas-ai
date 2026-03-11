@@ -1,4 +1,4 @@
-export const BOOKING_URL = "https://cal.com"; // Replace with actual Cal.com link
+export const BOOKING_URL = "https://cal.com/codymcmurray"; // Update slug after creating Cal.com account
 
 export const colors = {
   ink: "#0D1117",
