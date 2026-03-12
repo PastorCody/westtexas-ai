@@ -10,7 +10,7 @@ export default function ContactCTA() {
     <section ref={ref} className="bg-paper py-32 md:py-40">
       <div className="mx-auto max-w-[800px] px-6 text-center">
         <h2 className="fade-up font-[family-name:var(--font-serif)] text-ink text-[clamp(2rem,4.5vw,3.5rem)] mb-10 leading-tight">
-          Tell me what is broken. I will tell you if I can fix it.
+          Tell us what is broken. We will tell you if we can fix it.
         </h2>
 
         <a

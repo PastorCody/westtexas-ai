@@ -3,15 +3,15 @@
 import { useScrollReveal } from "@/lib/useScrollReveal";
 
 const buildSteps = [
-  { num: "01", title: "We talk.", desc: "Book a 30-minute call. Tell me what is eating your team's time. No prep needed." },
-  { num: "02", title: "I scope it.", desc: "Within 48 hours you get a plain-language proposal. What I build, what it connects to, what it costs, how long it takes." },
+  { num: "01", title: "We talk.", desc: "Book a 30-minute call. Tell us what is eating your team's time. No prep needed." },
+  { num: "02", title: "We scope it.", desc: "Within 48 hours you get a plain-language proposal. What we build, what it connects to, what it costs, how long it takes." },
   { num: "03", title: "You pay the setup fee.", desc: "Covers the full build: workflow audit, system design, development, deployment, and training." },
-  { num: "04", title: "I build and ship.", desc: "1 to 3 weeks depending on complexity. A working system connected to your actual tools." },
+  { num: "04", title: "We build and ship.", desc: "1 to 3 weeks depending on complexity. A working system connected to your actual tools." },
 ];
 
 const retainerSteps = [
-  { num: "05", title: "Monthly retainer starts.", desc: "I stay on. I monitor the system. I fix what breaks. I improve what is working." },
-  { num: "06", title: "Your business gets more automated every month.", desc: "This is not maintenance-only. It is ongoing development. Each month I build the next thing." },
+  { num: "05", title: "Monthly retainer starts.", desc: "We stay on. We monitor the system. We fix what breaks. We improve what is working." },
+  { num: "06", title: "Your business gets more automated every month.", desc: "This is not maintenance-only. It is ongoing development. Each month we build the next thing." },
 ];
 
 function Step({ num, title, desc }: { num: string; title: string; desc: string }) {

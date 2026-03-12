@@ -13,14 +13,14 @@ export default function Hero() {
 
         {/* Headline */}
         <h1 className="hero-anim hero-anim-2 font-[family-name:var(--font-serif)] text-ink text-[clamp(3rem,7vw,5.5rem)] leading-[1.08] max-w-[800px] mx-auto mb-8">
-          I build AI systems that run{" "}
+          We build AI systems that run{" "}
           <em className="italic">inside</em> your business.
         </h1>
 
         {/* Subheadline */}
         <p className="hero-anim hero-anim-3 text-slate text-lg md:text-xl max-w-[580px] mx-auto mb-10 leading-relaxed">
-          You tell me what your team wastes the most time on. I build the
-          automation that eliminates it. Then I stay on retainer to maintain it
+          You tell us what your team wastes the most time on. We build the
+          automation that eliminates it. Then we stay on retainer to maintain it
           and build more.
         </p>
 
