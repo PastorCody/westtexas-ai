@@ -60,7 +60,7 @@ export default function Pricing() {
               <li>System maintenance and monitoring</li>
               <li>Performance optimization</li>
               <li>New automation builds each month</li>
-              <li>Direct access to me, not a ticket queue</li>
+              <li>Direct access to us, not a ticket queue</li>
               <li>Cancel anytime, 30 days notice</li>
             </ul>
             <a
